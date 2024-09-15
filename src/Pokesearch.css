@@ -173,7 +173,6 @@ input::placeholder {
 }
 .type-ghost {
   background-color: #705898; 
-  height: 100vw;
 }
 .type-ghost .pokemonItem {
   background-color: #432d66; 
